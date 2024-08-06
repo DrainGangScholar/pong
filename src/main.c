@@ -4,6 +4,7 @@
 #define HEIGHT 720
 #define title "Title"
 int main() {
+
   InitWindow(width, HEIGHT, title);
   InitAudioDevice();
   Sound hitWall = LoadSound("./resources/sound/test.wav");
