@@ -1,4 +1,4 @@
-#include "../include/raylib.h"
+#include <raylib.h>
 #include <stdbool.h>
 #define width 1280
 #define HEIGHT 720
