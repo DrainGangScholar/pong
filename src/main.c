@@ -1,7 +1,5 @@
-#include <raylib.h>
-#include <raymath.h>
+#include "../include/raylib.h"
 #include <stdbool.h>
-#include <stdio.h>
 #define width 1280
 #define HEIGHT 720
 #define title "Title"
